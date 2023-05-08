@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
-import Webtoons from './component/Webtoons';
+import Jokes from './component/Jokes';
 
 function App() {
   return (
     <div className="App">
-      <Webtoons />
+      <Jokes />
     </div>
   );
 }

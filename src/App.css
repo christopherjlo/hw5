@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: #282c34;
+}
+
+h1 {
+  font-size: 56px;
+}
+
+p {
+  font-size: 36px;
+}
+
+button {
+  font-size: 24px;
+}
